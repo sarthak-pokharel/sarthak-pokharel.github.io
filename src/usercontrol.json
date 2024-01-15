@@ -1,0 +1,65 @@
+{
+    
+    "profile_pic_link": "https://avatars.githubusercontent.com/u/54739445",
+    "name": "Sarthak Pokhrel",
+    "about":"I am a student studying Mathematics and Classic Physics as main subject, and also love computer programming",
+    "experience":"No Experience yet currently focus on learning.",
+    "copyright_tag": "Sp.",
+    "titles": [
+        "Good At Everything",
+        "Best to be honest"
+    ],
+    "skills":[
+        "Proficient in Python programming language",
+        "Proficient in using Excel for data analysis and visualization",
+        "Experienced in using libraries such as NumPy, Pandas,and Matplotlib for data manipulation and visualization",
+        "Skilled in SQL for data management and querying",
+        "Currently learning machine learning techniques and their applications in various domains."
+    ],
+    "projects":[
+    ],
+
+    "contacts":[
+        {
+            "name": "email",
+            "value": "sarthak.whenever@gmail.com"
+        }
+    ],
+    "images":{
+        "primary": "./images/54739445.jpeg"
+    },
+    "address":"Kathmandu Nepal",
+    "socials":[
+        {
+            "name": "email",
+            "link": "mailto:sarthak.whenever@gmail.com"
+        },
+        {
+            "name": "twitter",
+            "link": "https://twitter.com/sarthak_zzz"
+        },
+        {
+            "name": "linkedin",
+            "link": "https://www.linkedin.com/in/sarthak-pokhrel/"
+        },
+        {
+            "name": "github",
+            "link": "https://github.com/sarthak-pokharel"
+        },
+        {
+            "name": "instagram",
+            "link": "https://www.instagram.com/igoformineigottoshine/"
+        }
+    ],
+
+    "blogs":[
+        {
+            "title": "About Me",
+            "short_description": "Hello! I am Sarthak Pokhrel. ",
+            "published_date": "21 Feb 2023",
+            "link": "",
+            "labels": ["personal"]
+        }
+    ]
+}
+

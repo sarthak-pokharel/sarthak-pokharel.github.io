@@ -1,0 +1,16 @@
+
+@media (max-width: 500px) {
+    .blogsListPage{
+        flex-direction: column-reverse;
+    }
+    .blogsListContainer, .filterPage {
+        width: 100% !important;
+    }
+    .filterClips {
+        flex-direction: row;
+    }
+    .filtersTitle {
+        display: none;
+    }
+  }
+  
