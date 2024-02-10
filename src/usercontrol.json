@@ -1,16 +1,18 @@
 {
     
     "profile_pic_link": "https://avatars.githubusercontent.com/u/54739445",
-    "name": "Sarthak Pokhrel",
-    "about":"I am a student studying Mathematics and Classic Physics as main subject, and also love computer programming",
+    "name": "Sarthak",
+    "about":"Hi, I'm Sarthak, currently a Computer Engineering student at Pulchowk Campus, Nepal. \n\nMy journey is fueled by a deep passion for problem-solving, mathematics, and the power of technology to create both real and abstract solutions.\nMy goal? To leverage my love for maths and technology to develop tools and technologies that make a difference, especially in communities like mine.\n\nWelcome to my portfolio. Here's where I share my projects, insights, and dreams. Let's explore the possibilities of technology and mathematics together.",
     "experience":"No Experience yet currently focus on learning.",
     "copyright_tag": "Sp.",
     "titles": [
-        "Good At Everything",
-        "Best to be honest"
+        "Data Science Enthusiast",
+        "Computational Thinker and Creator",
+        "Full Stack Web Developer",
+        "Mathematical Modeling and Technology Advocate"
     ],
     "skills":[
-        "Proficient in Python programming language",
+        "Proficient in Python/JS programming language",
         "Proficient in using Excel for data analysis and visualization",
         "Experienced in using libraries such as NumPy, Pandas,and Matplotlib for data manipulation and visualization",
         "Skilled in SQL for data management and querying",
