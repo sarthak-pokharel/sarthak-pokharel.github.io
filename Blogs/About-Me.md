@@ -2,6 +2,15 @@
 ## Hi, I'm Sarthak
 
 
+
+Hi, I'm Sarthak, currently a Computer Engineering student at Pulchowk Campus, Nepal. 
+
+My journey is fueled by a deep passion for problem-solving, mathematics, and the power of technology to create both real and abstract solutions.
+
+My goal? To leverage my love for maths and technology to develop tools and technologies that make a difference, especially in communities like mine.
+
+
+
 <div class="fl">
 
 
