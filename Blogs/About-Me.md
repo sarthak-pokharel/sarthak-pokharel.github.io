@@ -3,6 +3,8 @@
 
 Socials:
 
+<div>
+
 
 <a href="https://www.linkedin.com/in/sarthak-pokhrel/" target="_blank">
   <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/brands/linkedin.svg" width="25" height="25" alt="LinkedIn">
@@ -21,6 +23,7 @@ Socials:
 </a>
 
 
+</div>
 <br/>
 
 
