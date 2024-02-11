@@ -60,14 +60,14 @@
 
     "blogs":[
         {
-            "title": "About Me",
+            "title": "The Intellectual Ventures of Sarthak Pokharel",
             "short_description": "Greetings, onlookers and purported scholars. I am Sarthak, a mere student in the grand tapestry of Computer Engineering at Pulchowk Campus, nestled within the confines of Nepal. This platform, this blog, is not...",
             "published_date": "21 Feb 2023",
             "link": "https://sarthak-pokharel.github.io/Blogs/About-Me",
             "labels": ["personal"]
         },
         {
-            "title": "Uniform Random Polar Coordinates Generation",
+            "title": "Crafting Polar Coordinates from Chaos",
             "short_description": "Studying problem regarding generation of uniform random polar coordinates and figuring out a simple elegant solution to it",
             "published_date": "21 Feb 2023",
             "link": "https://sarthak-pokharel.github.io/Blogs/Uniform-Polar-Coordinates-Generation",
