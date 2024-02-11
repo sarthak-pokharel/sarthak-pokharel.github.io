@@ -1,6 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap";
 import { AiFillGithub, AiFillInstagram, AiOutlineTwitter, AiFillMail } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaDiscord, FaLinkedinIn } from "react-icons/fa";
 
 import usermetadata from "../usercontrol.json";
 
@@ -9,7 +9,8 @@ let social_icons = {
   instagram: <AiFillInstagram />,
   linkedin: <FaLinkedinIn />,
   twitter: <AiOutlineTwitter />,
-  email: <AiFillMail />
+  email: <AiFillMail />,
+  discord: <FaDiscord />
 };
 
 export default function FindMeOn() {
