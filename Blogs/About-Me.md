@@ -1,9 +1,9 @@
 
 # Hi, I'm Sarthak
 
-
-
 Socials:
+
+
 - <a href="https://www.linkedin.com/in/sarthak-pokhrel/" target="_blank">
   <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/brands/linkedin.svg" width="50" height="50" alt="LinkedIn">
 </a>
@@ -15,11 +15,14 @@ Socials:
 - <a href="https://www.instagram.com/igoformineigottoshine" target="_blank">
   <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/brands/instagram.svg" width="50" height="50" alt="Instagram">
 </a>
-<!-- - [Email](mailto:sarthak.whenever@gmail.com) -->
+
 - <a href="https://github.com/sarthak-pokharel" target="_blank">
   <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/brands/github.svg" width="50" height="50" alt="GitHub">
 </a>
-<!-- - [Portfolio](https://portfolio.sarthakpokhrel.com.np/) -->
+
+- <a href="mailto:sarthak.whenever@gmail.com" target="_blank">
+  <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/regular/envelope.svg" width="50" height="50" alt="Instagram">
+</a>
 
 
 
