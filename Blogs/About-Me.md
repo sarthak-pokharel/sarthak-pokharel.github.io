@@ -3,7 +3,8 @@
 
 Socials:
 
-<div style="display:flex; justify-content:space-evenly;">
+<style>display:flex; justify-content:space-evenly;</style>
+<div class="flexer">
 
 
 <a href="https://www.linkedin.com/in/sarthak-pokhrel/" target="_blank">
