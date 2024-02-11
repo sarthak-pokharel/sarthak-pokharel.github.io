@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import UnderConstruction from "../../UnderContruction";
 import usermetadata from '../../usercontrol.json';
 import { Backdrop, Button, Chip, CircularProgress, Divider, IconButton, List, ListItem, Typography } from "@mui/material";
@@ -13,23 +13,37 @@ import './BlogsPage.css';
 
 
 function BlogCard({ blogContent }) {
-
+    const ref = useRef();
+  const [height, setHeight] = useState("0px");
+    const onLoad = () => {
+        // setHeight(ref.current.contentWindow.document.body.scrollHeight + "px");
+      };
     return <>
 
         <div style={{
-            minHeight: 200,
-            maxWidth: 650,
+            minHeight: "70vh",
+            maxWidth: 1050,
             width: '95%',
             margin: "auto",
             boxShadow: "0 0 10px -2px grey",
             borderRadius: 20,
-            padding: '2em'
+            padding: '2em', 
+            position:'relative'
         }}>
             {/* <Typography variant="h5">{blogContent.title}</Typography> */}
-            <div>
-                <Markdown children={blogContent.content} rehypePlugins={[rehypeRaw]}></Markdown>
-
-            </div>
+            {/* <div style={{height: "100%"}}>
+                <Markdown children={blogContent.content} rehypePlugins={[rehypeRaw]}></Markdown>}
+                
+            </div> */}
+            <iframe src={blogContent.link} 
+            ref={ref}
+            onLoad={onLoad}
+            
+            style={{
+                    display:"block",
+                    width: "100%",
+                    height: '70vh'
+                }} />
         </div>
 
     </>
@@ -136,7 +150,8 @@ export default function BlogsPage() {
         setCurrentBlogContent(null);
     };
     let loadBlog = async function (blogLink) {
-        return (await axios.get(blogLink)).data;
+        // return (await axios.get(blogLink)).data;
+        return "";
     };
 
     useEffect(() => {
@@ -158,7 +173,8 @@ export default function BlogsPage() {
         })();
     }, [currentDispBlog]);
     let openBlog = function(i){
-        setCurrentDispBlog(i);
+        window.open(usermetadata['blogs'][i].link, "_blank");
+        // setCurrentDispBlog(i);
     }
 
     return <>
@@ -171,7 +187,7 @@ export default function BlogsPage() {
             <BlogLoadingIcon show={showBlogLoading} />
 
             <div style={{
-                maxWidth: 650,
+                maxWidth: 1050,
                 width: '95%',
                 margin: "auto",
                 marginTop: 40,
@@ -185,7 +201,8 @@ export default function BlogsPage() {
 
             <BlogCard blogContent={{
                 title: usermetadata['blogs'][currentDispBlog].title,
-                content: currentBlogContent
+                content: currentBlogContent, 
+                link: usermetadata['blogs'][currentDispBlog].link
             }} />
 
         </>

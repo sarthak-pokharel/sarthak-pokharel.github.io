@@ -14,5 +14,3 @@ Socials:
   [https://sarthakpokhrel.com.np/](https://sarthakpokhrel.com.np/)
 
 
-
-![](https://komarev.com/ghpvc/?username=743jsd8sdksdkdfjskdjfksdfkjsalkfjskj&color=ffffff&style=for-the-badge)

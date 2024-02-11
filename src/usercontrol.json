@@ -63,14 +63,14 @@
             "title": "About Me",
             "short_description": "Hello! I am Sarthak Pokharel. ",
             "published_date": "21 Feb 2023",
-            "link": "https://sarthak-pokharel.github.io/Blogs/About-Me.md",
+            "link": "https://sarthak-pokharel.github.io/Blogs/About-Me",
             "labels": ["personal"]
         },
         {
             "title": "Uniform Random Polar Coordinates Generation",
             "short_description": "Studying problem regarding generation of uniform random polar coordinates and figuring out a simple elegant solution to it",
             "published_date": "21 Feb 2023",
-            "link": "https://sarthak-pokharel.github.io/Blogs/Uniform-Polar-Coordinates-Generation.md",
+            "link": "https://sarthak-pokharel.github.io/Blogs/Uniform-Polar-Coordinates-Generation",
             "labels": ["personal", "mathematics", "research"]
         }
     ]
