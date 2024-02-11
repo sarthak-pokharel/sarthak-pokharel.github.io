@@ -2,7 +2,7 @@
 
 import { Col, Container, Row } from "react-bootstrap";
 import usermetadata from "../usercontrol.json";
-import utshavPic from "../Assets/102865357.png";
+
 import Type from '../components/Type';
 import "./Home.css"
 import Home2 from "./Home2";
