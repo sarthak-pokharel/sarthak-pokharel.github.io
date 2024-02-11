@@ -23,7 +23,7 @@ Hence, the corrected formula to generate a point `(x, y)` in polar coordinates `
 Then, to convert these polar coordinates back to Cartesian coordinates, use:
 
 ![equation](https://latex.codecogs.com/svg.image?\[x=r\cdot\cos(\theta)\])
-\[ y = r \cdot \sin(\theta) \]
+![equation](https://latex.codecogs.com/svg.image?\[y=r\cdot\sin(\theta)\])
 
 This method ensures that points are uniformly distributed across the area of the circle.
 
