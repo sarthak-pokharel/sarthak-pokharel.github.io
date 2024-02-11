@@ -3,7 +3,7 @@
 
 Socials:
 
-<div>
+<div style="display:flex; justify-content:space-evenly;">
 
 
 <a href="https://www.linkedin.com/in/sarthak-pokhrel/" target="_blank">
