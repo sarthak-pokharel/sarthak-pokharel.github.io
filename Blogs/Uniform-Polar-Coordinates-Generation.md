@@ -2,7 +2,7 @@
 
 When generating random points within a circle, a common approach is to use polar coordinates. The formula you provided attempts to do just that by randomly selecting a radius R and an angle theta. However, the approach:
 
-\[ f(R, \theta) = [R \cdot \text{random}(0,1), \theta \cdot \text{random}(0, 2\pi)] \]
+![equation](https://latex.codecogs.com/svg.image?\[f(R,\theta)=[R\cdot\text{random}(0,1),\theta\cdot\text{random}(0,2\pi)]\])
 
 leads to a higher concentration of points towards the center of the circle. This is because the area of a circle increases quadratically with its radius, but this method assigns equal probability to all radii.
 
@@ -17,8 +17,8 @@ To achieve a uniform distribution of points inside a circle, the key is to adjus
 
 Hence, the corrected formula to generate a point `(x, y)` in polar coordinates `(r, theta)` is:
 
-\[ r = \sqrt{\text{random}(0,1)} \cdot R \]
-\[ \theta = \text{random}(0, 2\pi) \]
+![equation](https://latex.codecogs.com/svg.image?\[r=\sqrt{\text{random}(0,1)}\cdot&space;R\])
+![equation](https://latex.codecogs.com/svg.image?\[\theta=\text{random}(0,2\pi)\])
 
 Then, to convert these polar coordinates back to Cartesian coordinates, use:
 
