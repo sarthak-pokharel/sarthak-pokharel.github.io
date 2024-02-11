@@ -1,5 +1,5 @@
 
-#### A Discourse by a Relentless Seeker of Truth in Data and Technology
+### A Discourse by a Relentless Seeker of Truth in Data and Technology
 
 Greetings, onlookers and purported scholars. I am Sarthak, a mere student in the grand tapestry of Computer Engineering at Pulchowk Campus, nestled within the confines of Nepal. This platform, this blog, is not your sanctuary of comfort nor a haven of mindless optimism. It is the forge upon which my thoughts, criticisms, and relentless pursuit of knowledge are hammered into the shape of insight and innovation.
 
