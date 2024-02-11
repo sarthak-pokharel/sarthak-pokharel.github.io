@@ -10,7 +10,6 @@ Socials:
 <a href="https://www.linkedin.com/in/sarthak-pokhrel/" target="_blank">
   <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/brands/linkedin.svg" width="50" height="50" alt="LinkedIn">
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discordapp.com/users/691999880377401383" target="_blank">
   <img src="https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/brands/discord.svg" width="50" height="50" alt="Discord">
