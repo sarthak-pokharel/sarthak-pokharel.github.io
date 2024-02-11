@@ -43,6 +43,7 @@ export function Home() {
                     </Row>
                 </Container>
             </Container>
+            <br/>
             {/* <br/><br/><br/><br/> */}
             <Home2 />
         </section>
