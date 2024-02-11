@@ -1,8 +1,6 @@
 
 ## Hi, I'm Sarthak
 
-Socials:
-
 
 <div class="fl">
 
