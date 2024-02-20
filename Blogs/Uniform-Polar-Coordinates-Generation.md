@@ -18,12 +18,13 @@ To achieve a uniform distribution of points inside a circle, the key is to adjus
 Hence, the corrected formula to generate a point `(x, y)` in polar coordinates `(r, theta)` is:
 
 ![equation](https://latex.codecogs.com/svg.image?r=r*\sqrt{rand(0,1)})
+
 ![equation](https://latex.codecogs.com/svg.image?\theta=rand(0,2\pi))
 
 Then, to convert these polar coordinates back to Cartesian coordinates, use:
 
-![equation](https://latex.codecogs.com/svg.image?\x=r\cdot\cos(\theta)\)
-![equation](https://latex.codecogs.com/svg.image?\y=r\cdot\sin(\theta)\)
+![equation](https://latex.codecogs.com/svg.image?x=r.cos(\theta))
+![equation](https://latex.codecogs.com/svg.image?x=r.sin(\theta))
 
 This method ensures that points are uniformly distributed across the area of the circle.
 
